@@ -6,7 +6,7 @@ I'm Tute Vaccaro, a passionate software developer.
 
 - 🔭 Working on exciting projects.
 - 🌱 Always learning new things.
-- 📫 Reach me at [tute.vaccaro@example.com](mailto:tutevaccaro@gmail.com).
+- 📫 Reach me at [tute.vaccaro@gmail.com](mailto:tutevaccaro@gmail.com).
 
 ## Technologies & Tools
 
